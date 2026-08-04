@@ -1,0 +1,18 @@
+h1{
+    color:brown;
+    text-align: center;
+}
+p{
+    color:green;
+}
+.box-a{
+    background-color: gray;
+    padding: 30px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+.box-b{
+    background-color: orange;
+    padding: 30px;
+    
+}
